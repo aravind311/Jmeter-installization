@@ -1,2 +1,2 @@
-# Jmeter-installization
-Jmeter with jenkions
+# JMeter-configuration with Jenkins
+
